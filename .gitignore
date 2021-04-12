@@ -1,0 +1,5 @@
+.idea/
+__pycache__/
+precom/rank/*
+precom/rec/datasets/*
+precom/rec/publications/*
