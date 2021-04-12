@@ -1,0 +1,1000 @@
+{"qid": 1, "qstr": "covid-19 OR sars-cov-2", "freq": 911}
+{"qid": 2, "qstr": "dementia", "freq": 779}
+{"qid": 3, "qstr": "biodiversity", "freq": 550}
+{"qid": 4, "qstr": "influenza", "freq": 531}
+{"qid": 5, "qstr": "malaria", "freq": 526}
+{"qid": 6, "qstr": "interleukin-33", "freq": 520}
+{"qid": 7, "qstr": "glyphosate", "freq": 518}
+{"qid": 8, "qstr": "oncogene", "freq": 518}
+{"qid": 9, "qstr": "bioenergy", "freq": 517}
+{"qid": 10, "qstr": "carcinogenes", "freq": 514}
+{"qid": 11, "qstr": "microplastics", "freq": 508}
+{"qid": 12, "qstr": "nanomaterial", "freq": 503}
+{"qid": 13, "qstr": "zoster", "freq": 498}
+{"qid": 14, "qstr": "nutrigenomics", "freq": 492}
+{"qid": 15, "qstr": "schizophrenie", "freq": 486}
+{"qid": 16, "qstr": "zoonosis", "freq": 477}
+{"qid": 17, "qstr": "rubisco", "freq": 473}
+{"qid": 18, "qstr": "breast AND cancer", "freq": 464}
+{"qid": 19, "qstr": "zika", "freq": 459}
+{"qid": 20, "qstr": "animal AND protection", "freq": 448}
+{"qid": 21, "qstr": "food AND allergy", "freq": 447}
+{"qid": 22, "qstr": "climate AND change", "freq": 443}
+{"qid": 23, "qstr": "hospital AND hygiene", "freq": 441}
+{"qid": 24, "qstr": "organic AND farming", "freq": 437}
+{"qid": 25, "qstr": "crispr AND cas", "freq": 436}
+{"qid": 26, "qstr": "organ AND donation", "freq": 435}
+{"qid": 27, "qstr": "ecosystem AND services", "freq": 435}
+{"qid": 28, "qstr": "pesticide AND residues", "freq": 432}
+{"qid": 29, "qstr": "vegan AND diet", "freq": 404}
+{"qid": 30, "qstr": "hpv AND vaccination", "freq": 384}
+{"qid": 31, "qstr": "nuclear AND disaster", "freq": 374}
+{"qid": 32, "qstr": "colony AND collapse AND disorder", "freq": 374}
+{"qid": 33, "qstr": "trade AND impacts", "freq": 364}
+{"qid": 34, "qstr": "jumping AND gene", "freq": 363}
+{"qid": 35, "qstr": "demenz", "freq": 333}
+{"qid": 36, "qstr": "mukoviszidose", "freq": 312}
+{"qid": 37, "qstr": "covid-19", "freq": 268}
+{"qid": 38, "qstr": "pflege", "freq": 166}
+{"qid": 39, "qstr": "dekubitus", "freq": 162}
+{"qid": 40, "qstr": "sars-cov-2", "freq": 128}
+{"qid": 41, "qstr": "diabetes", "freq": 122}
+{"qid": 42, "qstr": "niedersa* OR brem*", "freq": 110}
+{"qid": 43, "qstr": "biochemie", "freq": 106}
+{"qid": 44, "qstr": "gesundheit", "freq": 106}
+{"qid": 45, "qstr": "corona", "freq": 103}
+{"qid": 46, "qstr": "breast cancer", "freq": 99}
+{"qid": 47, "qstr": "physiologie", "freq": 96}
+{"qid": 48, "qstr": "brustkrebs", "freq": 95}
+{"qid": 49, "qstr": "delir", "freq": 90}
+{"qid": 50, "qstr": "depression", "freq": 89}
+{"qid": 51, "qstr": "pesticide residues", "freq": 89}
+{"qid": 54, "qstr": "hpv vaccination", "freq": 86}
+{"qid": 56, "qstr": "tlif AND cage", "freq": 84}
+{"qid": 57, "qstr": "covid AND 19", "freq": 83}
+{"qid": 59, "qstr": "animal protection", "freq": 78}
+{"qid": 60, "qstr": "organspende", "freq": 75}
+{"qid": 61, "qstr": "vegan diet", "freq": 75}
+{"qid": 63, "qstr": "herzinfarkt", "freq": 71}
+{"qid": 64, "qstr": "colony collapse disorder", "freq": 70}
+{"qid": 65, "qstr": "food allergy", "freq": 70}
+{"qid": 66, "qstr": "anatomie", "freq": 69}
+{"qid": 67, "qstr": "hospital hygiene", "freq": 69}
+{"qid": 68, "qstr": "case AND management", "freq": 69}
+{"qid": 69, "qstr": "climate change", "freq": 68}
+{"qid": 70, "qstr": "hpv-impfung", "freq": 67}
+{"qid": 71, "qstr": "stress", "freq": 66}
+{"qid": 72, "qstr": "organic farming", "freq": 65}
+{"qid": 73, "qstr": "nuclear disaster", "freq": 64}
+{"qid": 74, "qstr": "organ donation", "freq": 62}
+{"qid": 75, "qstr": "adipositas", "freq": 60}
+{"qid": 76, "qstr": "parkinson", "freq": 59}
+{"qid": 77, "qstr": "covid", "freq": 59}
+{"qid": 78, "qstr": "resilienz", "freq": 57}
+{"qid": 79, "qstr": "schlaganfall", "freq": 55}
+{"qid": 80, "qstr": "physiotherapie", "freq": 55}
+{"qid": 81, "qstr": "hiv", "freq": 54}
+{"qid": 82, "qstr": "telemedizin", "freq": 54}
+{"qid": 84, "qstr": "autismus", "freq": 51}
+{"qid": 86, "qstr": "cancer", "freq": 50}
+{"qid": 87, "qstr": "copd", "freq": 50}
+{"qid": 88, "qstr": "osteopathie", "freq": 50}
+{"qid": 89, "qstr": "prometheus", "freq": 50}
+{"qid": 90, "qstr": "burnout", "freq": 49}
+{"qid": 91, "qstr": "adhs", "freq": 49}
+{"qid": 92, "qstr": "schmerz", "freq": 47}
+{"qid": 94, "qstr": "multiple AND sklerose", "freq": 45}
+{"qid": 95, "qstr": "klimawandel", "freq": 45}
+{"qid": 97, "qstr": "ergotherapie", "freq": 45}
+{"qid": 98, "qstr": "reaktorkatastrophe", "freq": 44}
+{"qid": 99, "qstr": "histologie", "freq": 43}
+{"qid": 100, "qstr": "borderline", "freq": 43}
+{"qid": 101, "qstr": "basale AND stimulation", "freq": 42}
+{"qid": 102, "qstr": "krebs", "freq": 42}
+{"qid": 104, "qstr": "neuroanatomie", "freq": 42}
+{"qid": 105, "qstr": "innere AND medizin", "freq": 41}
+{"qid": 106, "qstr": "neurologie", "freq": 41}
+{"qid": 107, "qstr": "salutogenese", "freq": 41}
+{"qid": 108, "qstr": "coronavirus", "freq": 41}
+{"qid": 109, "qstr": "nahrungsmittelintoleranz", "freq": 40}
+{"qid": 110, "qstr": "notaufnahme", "freq": 39}
+{"qid": 111, "qstr": "aromatherapie", "freq": 39}
+{"qid": 112, "qstr": "krankenhaushygiene", "freq": 39}
+{"qid": 113, "qstr": "midwifery", "freq": 38}
+{"qid": 114, "qstr": "herz", "freq": 38}
+{"qid": 115, "qstr": "guolin", "freq": 38}
+{"qid": 116, "qstr": "ambient AND assisted AND living AND care", "freq": 38}
+{"qid": 117, "qstr": "herzinsuffizienz", "freq": 37}
+{"qid": 118, "qstr": "onkologie", "freq": 37}
+{"qid": 119, "qstr": "zoonose", "freq": 37}
+{"qid": 120, "qstr": "psychiatrie", "freq": 37}
+{"qid": 121, "qstr": "aphasie", "freq": 37}
+{"qid": 123, "qstr": "midwife", "freq": 36}
+{"qid": 124, "qstr": "test", "freq": 36}
+{"qid": 125, "qstr": "transitions AND end AND of AND life", "freq": 36}
+{"qid": 126, "qstr": "vegan", "freq": 35}
+{"qid": 128, "qstr": "last AND year AND of AND life", "freq": 34}
+{"qid": 130, "qstr": "digitalisierung", "freq": 33}
+{"qid": 131, "qstr": "pathologie", "freq": 33}
+{"qid": 133, "qstr": "motivation", "freq": 33}
+{"qid": 134, "qstr": "palliative AND care", "freq": 33}
+{"qid": 135, "qstr": "gesundheitskompetenz", "freq": 32}
+{"qid": 136, "qstr": "pulvinaria", "freq": 32}
+{"qid": 137, "qstr": "cannabis", "freq": 32}
+{"qid": 139, "qstr": "schlaf", "freq": 31}
+{"qid": 140, "qstr": "trauma", "freq": 30}
+{"qid": 141, "qstr": "schizophrenia", "freq": 30}
+{"qid": 143, "qstr": "thromboseprophylaxe", "freq": 30}
+{"qid": 145, "qstr": "gesundheitskompetenz AND health AND literacy", "freq": 29}
+{"qid": 146, "qstr": "sterbehilfe", "freq": 29}
+{"qid": 148, "qstr": "tierschutz", "freq": 29}
+{"qid": 149, "qstr": "karzinogen", "freq": 29}
+{"qid": 150, "qstr": "bioenergie", "freq": 28}
+{"qid": 151, "qstr": "beatmung", "freq": 28}
+{"qid": 152, "qstr": "alzheimer", "freq": 28}
+{"qid": 153, "qstr": "mex", "freq": 28}
+{"qid": 154, "qstr": "diabetes AND mellitus", "freq": 28}
+{"qid": 155, "qstr": "angst", "freq": 28}
+{"qid": 157, "qstr": "epilepsie", "freq": 27}
+{"qid": 158, "qstr": "dialyse", "freq": 27}
+{"qid": 159, "qstr": "medizin", "freq": 26}
+{"qid": 160, "qstr": "sturz", "freq": 26}
+{"qid": 161, "qstr": "thrombose", "freq": 26}
+{"qid": 162, "qstr": "ambient AND assisted AND living AND nursing", "freq": 26}
+{"qid": 163, "qstr": "onkogen", "freq": 26}
+{"qid": 165, "qstr": "john AND smith", "freq": 26}
+{"qid": 166, "qstr": "ambient AND assisted AND living AND caring", "freq": 26}
+{"qid": 167, "qstr": "chirurgie", "freq": 26}
+{"qid": 170, "qstr": "inkontinenz", "freq": 25}
+{"qid": 171, "qstr": "stroke", "freq": 25}
+{"qid": 172, "qstr": "stillen", "freq": 25}
+{"qid": 173, "qstr": "hygiene", "freq": 25}
+{"qid": 175, "qstr": "pflegeausbildung", "freq": 25}
+{"qid": 176, "qstr": "psychologie", "freq": 25}
+{"qid": 177, "qstr": "neonatologie", "freq": 25}
+{"qid": 179, "qstr": "dysphagie", "freq": 25}
+{"qid": 180, "qstr": "masern", "freq": 25}
+{"qid": 181, "qstr": "schwangerschaft", "freq": 25}
+{"qid": 182, "qstr": "musiktherapie", "freq": 25}
+{"qid": 184, "qstr": "medizinische AND statistik", "freq": 24}
+{"qid": 185, "qstr": "leukemia", "freq": 24}
+{"qid": 186, "qstr": "yoga", "freq": 24}
+{"qid": 187, "qstr": "sucht", "freq": 24}
+{"qid": 188, "qstr": "arthrose", "freq": 24}
+{"qid": 189, "qstr": "bobath", "freq": 24}
+{"qid": 190, "qstr": "ethik", "freq": 23}
+{"qid": 193, "qstr": "pflegeprozess", "freq": 23}
+{"qid": 194, "qstr": "altenpflege", "freq": 23}
+{"qid": 195, "qstr": "klimawandel AND in AND china", "freq": 23}
+{"qid": 196, "qstr": "nutrigenomik", "freq": 23}
+{"qid": 197, "qstr": "corona AND virus", "freq": 23}
+{"qid": 198, "qstr": "pneumonie", "freq": 23}
+{"qid": 199, "qstr": "krankenhaus", "freq": 23}
+{"qid": 200, "qstr": "palliativ", "freq": 22}
+{"qid": 201, "qstr": "handelsliberalisierung", "freq": 22}
+{"qid": 202, "qstr": "rheuma", "freq": 22}
+{"qid": 204, "qstr": "notfallmedizin", "freq": 22}
+{"qid": 205, "qstr": "covid19", "freq": 22}
+{"qid": 208, "qstr": "health AND literacy", "freq": 22}
+{"qid": 209, "qstr": "vitamin AND d", "freq": 22}
+{"qid": 210, "qstr": "schmerzen", "freq": 22}
+{"qid": 212, "qstr": "immunologie", "freq": 21}
+{"qid": 216, "qstr": "polytrauma", "freq": 21}
+{"qid": 217, "qstr": "neurodermitis", "freq": 21}
+{"qid": 218, "qstr": "mrsa", "freq": 21}
+{"qid": 219, "qstr": "springendes AND gen", "freq": 21}
+{"qid": 220, "qstr": "bgm", "freq": 21}
+{"qid": 221, "qstr": "suzuki AND coupling", "freq": 21}
+{"qid": 222, "qstr": "intensivmedizin", "freq": 21}
+{"qid": 223, "qstr": "pflegewissenschaft", "freq": 21}
+{"qid": 224, "qstr": "mikrobiom", "freq": 21}
+{"qid": 225, "qstr": "asthma", "freq": 21}
+{"qid": 226, "qstr": "pflegemanagement", "freq": 21}
+{"qid": 227, "qstr": "osteoporose", "freq": 21}
+{"qid": 228, "qstr": "anorexia AND nervosa", "freq": 21}
+{"qid": 230, "qstr": "reanimation", "freq": 20}
+{"qid": 231, "qstr": "ekg", "freq": 20}
+{"qid": 232, "qstr": "neurochirurgie", "freq": 20}
+{"qid": 234, "qstr": "arbeitszufriedenheit", "freq": 20}
+{"qid": 235, "qstr": "patientensicherheit", "freq": 20}
+{"qid": 236, "qstr": "geriatrie", "freq": 20}
+{"qid": 237, "qstr": "depressionen", "freq": 20}
+{"qid": 238, "qstr": "thieme", "freq": 20}
+{"qid": 239, "qstr": "vernakalant", "freq": 20}
+{"qid": 241, "qstr": "sport", "freq": 20}
+{"qid": 245, "qstr": "inklusion", "freq": 19}
+{"qid": 247, "qstr": "out-of-hospital AND birth", "freq": 19}
+{"qid": 248, "qstr": "psychotherapie", "freq": 19}
+{"qid": 250, "qstr": "mikrobiologie", "freq": 19}
+{"qid": 252, "qstr": "11-dehydrocorticosterone", "freq": 19}
+{"qid": 253, "qstr": "softdrink", "freq": 19}
+{"qid": 254, "qstr": "patricia AND benner", "freq": 19}
+{"qid": 255, "qstr": "nursing", "freq": 19}
+{"qid": 256, "qstr": "mobbing", "freq": 19}
+{"qid": 257, "qstr": "dissertation", "freq": 19}
+{"qid": 258, "qstr": "herzchirurgie", "freq": 19}
+{"qid": 259, "qstr": "aphasie AND therapie", "freq": 19}
+{"qid": 260, "qstr": "bluthochdruck", "freq": 18}
+{"qid": 262, "qstr": "rehabilitation", "freq": 18}
+{"qid": 263, "qstr": "statistik", "freq": 18}
+{"qid": 265, "qstr": "nutrition", "freq": 18}
+{"qid": 266, "qstr": "antibiotika", "freq": 18}
+{"qid": 270, "qstr": "blut", "freq": 18}
+{"qid": 271, "qstr": "public AND health", "freq": 18}
+{"qid": 272, "qstr": "expertenstandard", "freq": 18}
+{"qid": 273, "qstr": "work AND life AND balance", "freq": 18}
+{"qid": 274, "qstr": "primary AND nursing", "freq": 18}
+{"qid": 275, "qstr": "zahnmedizin", "freq": 18}
+{"qid": 276, "qstr": "zucker", "freq": 18}
+{"qid": 277, "qstr": "bandscheibenvorfall", "freq": 17}
+{"qid": 279, "qstr": "social media", "freq": 17}
+{"qid": 280, "qstr": "die AND schwester AND der AND pfleger", "freq": 17}
+{"qid": 281, "qstr": "stryer", "freq": 17}
+{"qid": 283, "qstr": "virtual AND reality", "freq": 17}
+{"qid": 284, "qstr": "kunsttherapie", "freq": 17}
+{"qid": 287, "qstr": "nachhaltigkeit", "freq": 17}
+{"qid": 289, "qstr": "schichtarbeit", "freq": 17}
+{"qid": 290, "qstr": "icd AND 10", "freq": 17}
+{"qid": 292, "qstr": "tadalafil", "freq": 17}
+{"qid": 293, "qstr": "hebamme", "freq": 17}
+{"qid": 294, "qstr": "hno", "freq": 17}
+{"qid": 299, "qstr": "hpv", "freq": 16}
+{"qid": 300, "qstr": "fatigue", "freq": 16}
+{"qid": 301, "qstr": "projektmanagement", "freq": 16}
+{"qid": 302, "qstr": "mundpflege", "freq": 16}
+{"qid": 303, "qstr": "demographischer AND wandel", "freq": 16}
+{"qid": 305, "qstr": "occupational AND therapy", "freq": 16}
+{"qid": 306, "qstr": "geburt", "freq": 16}
+{"qid": 307, "qstr": "kinder", "freq": 16}
+{"qid": 308, "qstr": "burnout AND pflege", "freq": 16}
+{"qid": 309, "qstr": "gewalt", "freq": 16}
+{"qid": 310, "qstr": "psychische AND erkrankungen", "freq": 16}
+{"qid": 311, "qstr": "migration", "freq": 16}
+{"qid": 312, "qstr": "bladder", "freq": 16}
+{"qid": 313, "qstr": "katzung", "freq": 16}
+{"qid": 314, "qstr": "pflegedokumentation", "freq": 16}
+{"qid": 315, "qstr": "welsch", "freq": 16}
+{"qid": 316, "qstr": "labormedizin", "freq": 16}
+{"qid": 317, "qstr": "shared AND decision AND making", "freq": 16}
+{"qid": 318, "qstr": "evidence AND based AND nursing", "freq": 16}
+{"qid": 319, "qstr": "pflegeberatung", "freq": 15}
+{"qid": 320, "qstr": "das AND krankenhaus", "freq": 15}
+{"qid": 321, "qstr": "pflegeplanung", "freq": 15}
+{"qid": 322, "qstr": "asperger", "freq": 15}
+{"qid": 324, "qstr": "magersucht", "freq": 15}
+{"qid": 325, "qstr": "welsch AND histologie", "freq": 15}
+{"qid": 326, "qstr": "urologie", "freq": 15}
+{"qid": 328, "qstr": "morbus AND parkinson", "freq": 15}
+{"qid": 329, "qstr": "morbus AND crohn", "freq": 15}
+{"qid": 330, "qstr": "histologie AND welsch", "freq": 15}
+{"qid": 331, "qstr": "klinische AND chemie", "freq": 15}
+{"qid": 332, "qstr": "virologie", "freq": 15}
+{"qid": 333, "qstr": "udca", "freq": 15}
+{"qid": 335, "qstr": "prothetik", "freq": 15}
+{"qid": 336, "qstr": "lernen", "freq": 15}
+{"qid": 338, "qstr": "placebo", "freq": 15}
+{"qid": 339, "qstr": "ekel", "freq": 15}
+{"qid": 340, "qstr": "drg", "freq": 15}
+{"qid": 341, "qstr": "gesundheitsverhalten", "freq": 15}
+{"qid": 342, "qstr": "pain", "freq": 15}
+{"qid": 343, "qstr": "mammakarzinom", "freq": 15}
+{"qid": 344, "qstr": "psychiatrische AND pflege", "freq": 14}
+{"qid": 346, "qstr": "amputation", "freq": 14}
+{"qid": 347, "qstr": "pflegeforschung", "freq": 14}
+{"qid": 348, "qstr": "ambient AND assisted AND living AND and AND care", "freq": 14}
+{"qid": 349, "qstr": "studie", "freq": 14}
+{"qid": 350, "qstr": "dermatologie", "freq": 14}
+{"qid": 351, "qstr": "psychoonkologie", "freq": 14}
+{"qid": 352, "qstr": "notfallversorgung", "freq": 14}
+{"qid": 353, "qstr": "gesundheitsmanagement", "freq": 14}
+{"qid": 354, "qstr": "trisomie AND 21", "freq": 14}
+{"qid": 358, "qstr": "ecmo", "freq": 14}
+{"qid": 359, "qstr": "hashimoto", "freq": 14}
+{"qid": 360, "qstr": "coping", "freq": 14}
+{"qid": 362, "qstr": "sepsis", "freq": 14}
+{"qid": 363, "qstr": "spss", "freq": 14}
+{"qid": 364, "qstr": "prosthetic AND joint AND infection AND riskfactors", "freq": 14}
+{"qid": 366, "qstr": "manipulation", "freq": 14}
+{"qid": 367, "qstr": "karies", "freq": 14}
+{"qid": 368, "qstr": "schmerzmanagement", "freq": 14}
+{"qid": 369, "qstr": "ains", "freq": 14}
+{"qid": 371, "qstr": "heart", "freq": 14}
+{"qid": 372, "qstr": "atemtherapie", "freq": 14}
+{"qid": 374, "qstr": "intensivstation", "freq": 14}
+{"qid": 375, "qstr": "hypertonie", "freq": 14}
+{"qid": 376, "qstr": "supervision", "freq": 14}
+{"qid": 377, "qstr": "suizid", "freq": 14}
+{"qid": 379, "qstr": "peep AND trial", "freq": 14}
+{"qid": 380, "qstr": "die AND hebamme", "freq": 14}
+{"qid": 381, "qstr": "nurse", "freq": 13}
+{"qid": 382, "qstr": "compliance", "freq": 13}
+{"qid": 383, "qstr": "crps", "freq": 13}
+{"qid": 384, "qstr": "postpartale AND depression", "freq": 13}
+{"qid": 386, "qstr": "down AND syndrom", "freq": 13}
+{"qid": 389, "qstr": "stottern", "freq": 13}
+{"qid": 392, "qstr": "entwicklungspsychologie", "freq": 13}
+{"qid": 396, "qstr": "endometriose", "freq": 13}
+{"qid": 397, "qstr": "tinnitus", "freq": 13}
+{"qid": 398, "qstr": "patientenzufriedenheit", "freq": 13}
+{"qid": 399, "qstr": "safewards", "freq": 13}
+{"qid": 401, "qstr": "kinderkrankenpflege", "freq": 13}
+{"qid": 403, "qstr": "akupunktur", "freq": 13}
+{"qid": 405, "qstr": "bindung", "freq": 13}
+{"qid": 406, "qstr": "generation AND z", "freq": 13}
+{"qid": 407, "qstr": "einsamkeit", "freq": 13}
+{"qid": 408, "qstr": "oberschenkelhalsbruch", "freq": 13}
+{"qid": 409, "qstr": "versorgungsforschung", "freq": 13}
+{"qid": 410, "qstr": "i AND care", "freq": 13}
+{"qid": 411, "qstr": "blutgasanalyse", "freq": 13}
+{"qid": 412, "qstr": "strahlentherapie", "freq": 13}
+{"qid": 413, "qstr": "aids", "freq": 13}
+{"qid": 414, "qstr": "colitis AND ulcerosa", "freq": 13}
+{"qid": 416, "qstr": "back AND pain", "freq": 13}
+{"qid": 417, "qstr": "impfen", "freq": 13}
+{"qid": 418, "qstr": "ebola", "freq": 13}
+{"qid": 419, "qstr": "pandemie", "freq": 13}
+{"qid": 420, "qstr": "parvovirus AND b19", "freq": 13}
+{"qid": 421, "qstr": "schmerztherapie", "freq": 13}
+{"qid": 424, "qstr": "lancet", "freq": 13}
+{"qid": 425, "qstr": "multiple AND sclerosis", "freq": 13}
+{"qid": 426, "qstr": "icf", "freq": 12}
+{"qid": 428, "qstr": "gestationsdiabetes", "freq": 12}
+{"qid": 429, "qstr": "fasd", "freq": 12}
+{"qid": 432, "qstr": "unfallchirurgie", "freq": 12}
+{"qid": 433, "qstr": "risikomanagement", "freq": 12}
+{"qid": 434, "qstr": "chronische AND schmerzen", "freq": 12}
+{"qid": 435, "qstr": "biochemie AND des AND menschen", "freq": 12}
+{"qid": 436, "qstr": "anamnese", "freq": 12}
+{"qid": 437, "qstr": "stoma", "freq": 12}
+{"qid": 438, "qstr": "myeloic AND leukemia", "freq": 12}
+{"qid": 440, "qstr": "palliativmedizin", "freq": 12}
+{"qid": 441, "qstr": "prostatakarzinom", "freq": 12}
+{"qid": 442, "qstr": "intubation", "freq": 12}
+{"qid": 443, "qstr": "dienstplan", "freq": 12}
+{"qid": 444, "qstr": "immunsystem", "freq": 12}
+{"qid": 445, "qstr": "personalentwicklung", "freq": 12}
+{"qid": 446, "qstr": "manuelle AND therapie", "freq": 12}
+{"qid": 448, "qstr": "intensiv", "freq": 12}
+{"qid": 449, "qstr": "rosuvastatin", "freq": 12}
+{"qid": 450, "qstr": "impfung", "freq": 12}
+{"qid": 451, "qstr": "cirs", "freq": 12}
+{"qid": 452, "qstr": "postnatal depression", "freq": 12}
+{"qid": 453, "qstr": "vap", "freq": 12}
+{"qid": 454, "qstr": "flossing", "freq": 12}
+{"qid": 456, "qstr": "low AND back AND pain AND physiotherapy", "freq": 12}
+{"qid": 458, "qstr": "alkohol", "freq": 12}
+{"qid": 459, "qstr": "emdr", "freq": 12}
+{"qid": 460, "qstr": "psoriasis", "freq": 12}
+{"qid": 461, "qstr": "leber", "freq": 12}
+{"qid": 462, "qstr": "epidemiologie", "freq": 12}
+{"qid": 463, "qstr": "qualitative AND forschung", "freq": 12}
+{"qid": 464, "qstr": "sprachtherapie", "freq": 12}
+{"qid": 465, "qstr": "integrierte AND versorgung", "freq": 12}
+{"qid": 467, "qstr": "pubmed", "freq": 12}
+{"qid": 468, "qstr": "pflegediagnosen", "freq": 12}
+{"qid": 469, "qstr": "validation", "freq": 12}
+{"qid": 470, "qstr": "allgemeinmedizin", "freq": 12}
+{"qid": 472, "qstr": "meditation", "freq": 12}
+{"qid": 474, "qstr": "prostatakrebs", "freq": 12}
+{"qid": 475, "qstr": "burn AND out", "freq": 12}
+{"qid": 477, "qstr": "psychische AND gesundheit", "freq": 12}
+{"qid": 479, "qstr": "triage", "freq": 12}
+{"qid": 480, "qstr": "skoliose", "freq": 12}
+{"qid": 483, "qstr": "fieber", "freq": 12}
+{"qid": 484, "qstr": "demenz AND patients", "freq": 11}
+{"qid": 485, "qstr": "mrt", "freq": 11}
+{"qid": 487, "qstr": "onboarding", "freq": 11}
+{"qid": 489, "qstr": "tdcs", "freq": 11}
+{"qid": 490, "qstr": "antonovsky", "freq": 11}
+{"qid": 492, "qstr": "bonding AND stillen", "freq": 11}
+{"qid": 493, "qstr": "controlled AND study |randomized AND trial AND simvastatin", "freq": 11}
+{"qid": 500, "qstr": "medizinrecht", "freq": 11}
+{"qid": 501, "qstr": "therapeutisches AND klettern", "freq": 11}
+{"qid": 504, "qstr": "gesundheitssystem", "freq": 11}
+{"qid": 506, "qstr": "krankenhausmanagement", "freq": 11}
+{"qid": 507, "qstr": "dienstplangestaltung", "freq": 11}
+{"qid": 508, "qstr": "embryologie", "freq": 11}
+{"qid": 509, "qstr": "dsm AND 5", "freq": 11}
+{"qid": 511, "qstr": "medline", "freq": 11}
+{"qid": 512, "qstr": "sleep", "freq": 11}
+{"qid": 515, "qstr": "einarbeitung", "freq": 11}
+{"qid": 516, "qstr": "travoprost", "freq": 11}
+{"qid": 517, "qstr": "gesundheitswesen", "freq": 11}
+{"qid": 519, "qstr": "herzschrittmacher", "freq": 11}
+{"qid": 520, "qstr": "scham", "freq": 11}
+{"qid": 521, "qstr": "delir AND intensivstation", "freq": 11}
+{"qid": 522, "qstr": "ards", "freq": 11}
+{"qid": 525, "qstr": "cbd", "freq": 11}
+{"qid": 527, "qstr": "autism", "freq": 11}
+{"qid": 529, "qstr": "change AND management", "freq": 11}
+{"qid": 531, "qstr": "beipackzettel", "freq": 11}
+{"qid": 532, "qstr": "breast AND care AND nurse", "freq": 11}
+{"qid": 533, "qstr": "physik", "freq": 11}
+{"qid": 534, "qstr": "verhaltenstherapie", "freq": 11}
+{"qid": 535, "qstr": "kaiserschnitt", "freq": 11}
+{"qid": 537, "qstr": "wahrnehmung", "freq": 11}
+{"qid": 538, "qstr": "rechtsmedizin", "freq": 11}
+{"qid": 539, "qstr": "rauchen", "freq": 11}
+{"qid": 542, "qstr": "parodontologie", "freq": 11}
+{"qid": 544, "qstr": "springer", "freq": 11}
+{"qid": 545, "qstr": "faszien", "freq": 11}
+{"qid": 546, "qstr": "crispr", "freq": 11}
+{"qid": 547, "qstr": "wunde", "freq": 11}
+{"qid": 548, "qstr": "recovery", "freq": 11}
+{"qid": 549, "qstr": "prosthetic AND joint AND infection AND diagnose AND method", "freq": 11}
+{"qid": 550, "qstr": "neurofeedback", "freq": 11}
+{"qid": 552, "qstr": "peplau", "freq": 10}
+{"qid": 553, "qstr": "e-health", "freq": 10}
+{"qid": 555, "qstr": "transgender", "freq": 10}
+{"qid": 556, "qstr": "low AND back AND pain", "freq": 10}
+{"qid": 558, "qstr": "pnf", "freq": 10}
+{"qid": 559, "qstr": "emotionsregulation", "freq": 10}
+{"qid": 561, "qstr": "schmerzwahrnehmung", "freq": 10}
+{"qid": 562, "qstr": "advance AND care AND planning", "freq": 10}
+{"qid": 563, "qstr": "asthma AND bronchiale", "freq": 10}
+{"qid": 566, "qstr": "mayring", "freq": 10}
+{"qid": 568, "qstr": "nudging", "freq": 10}
+{"qid": 570, "qstr": "ehealth", "freq": 10}
+{"qid": 572, "qstr": "tracheostoma", "freq": 10}
+{"qid": 573, "qstr": "ethik AND in AND der AND medizin", "freq": 10}
+{"qid": 574, "qstr": "kommunikation AND pflege", "freq": 10}
+{"qid": 575, "qstr": "decubitus", "freq": 10}
+{"qid": 576, "qstr": "ibuprofen", "freq": 10}
+{"qid": 577, "qstr": "osteopathy", "freq": 10}
+{"qid": 578, "qstr": "telemonitoring", "freq": 10}
+{"qid": 579, "qstr": "social AND media", "freq": 10}
+{"qid": 581, "qstr": "chronischer AND schmerz", "freq": 10}
+{"qid": 582, "qstr": "medikamente", "freq": 10}
+{"qid": 585, "qstr": "hippotherapie", "freq": 10}
+{"qid": 586, "qstr": "palliativpflege", "freq": 10}
+{"qid": 587, "qstr": "schulter", "freq": 10}
+{"qid": 588, "qstr": "pelargonium", "freq": 10}
+{"qid": 591, "qstr": "lagerung", "freq": 10}
+{"qid": 592, "qstr": "behandlung AND depression", "freq": 10}
+{"qid": 593, "qstr": "notfall", "freq": 10}
+{"qid": 594, "qstr": "palliativ AND care", "freq": 10}
+{"qid": 595, "qstr": "pflege AND ausbildung", "freq": 10}
+{"qid": 597, "qstr": "soziale AND isolation", "freq": 10}
+{"qid": 599, "qstr": "allergie", "freq": 10}
+{"qid": 600, "qstr": "physiologie AND wiesner", "freq": 10}
+{"qid": 602, "qstr": "work-life-balance", "freq": 10}
+{"qid": 603, "qstr": "wochenbett", "freq": 10}
+{"qid": 606, "qstr": "demenz AND pflege", "freq": 10}
+{"qid": 607, "qstr": "arbeitsmedizin", "freq": 10}
+{"qid": 608, "qstr": "biologie", "freq": 10}
+{"qid": 609, "qstr": "orem", "freq": 10}
+{"qid": 612, "qstr": "obesity", "freq": 10}
+{"qid": 615, "qstr": "peg", "freq": 10}
+{"qid": 616, "qstr": "humangenetik", "freq": 10}
+{"qid": 618, "qstr": "koronare AND herzkrankheit", "freq": 10}
+{"qid": 619, "qstr": "geistige AND behinderung", "freq": 10}
+{"qid": 620, "qstr": "biologische AND psychologie", "freq": 10}
+{"qid": 621, "qstr": "tracheotomie", "freq": 10}
+{"qid": 622, "qstr": "sars", "freq": 10}
+{"qid": 623, "qstr": "school AND nurse", "freq": 10}
+{"qid": 624, "qstr": "radiology", "freq": 10}
+{"qid": 626, "qstr": "osce", "freq": 10}
+{"qid": 627, "qstr": "chorea AND huntington", "freq": 10}
+{"qid": 628, "qstr": "darmkrebs", "freq": 10}
+{"qid": 629, "qstr": "endometriosis AND prevalence", "freq": 10}
+{"qid": 632, "qstr": "wissenschaftliches AND arbeiten", "freq": 9}
+{"qid": 633, "qstr": "instagram", "freq": 9}
+{"qid": 634, "qstr": "epistaxis AND hypertonie", "freq": 9}
+{"qid": 635, "qstr": "ambient AND assisted AND living", "freq": 9}
+{"qid": 636, "qstr": "soziale AND arbeit", "freq": 9}
+{"qid": 639, "qstr": "personalmanagement", "freq": 9}
+{"qid": 642, "qstr": "physiotherapy", "freq": 9}
+{"qid": 643, "qstr": "heart AND failure", "freq": 9}
+{"qid": 645, "qstr": "parodontitis", "freq": 9}
+{"qid": 648, "qstr": "eisenmangel", "freq": 9}
+{"qid": 649, "qstr": "qualitative AND studie", "freq": 9}
+{"qid": 650, "qstr": "sonographie", "freq": 9}
+{"qid": 652, "qstr": "gesundheitswissenschaften", "freq": 9}
+{"qid": 655, "qstr": "therapie AND tools", "freq": 9}
+{"qid": 657, "qstr": "late AND talker", "freq": 9}
+{"qid": 660, "qstr": "kopfschmerzen", "freq": 9}
+{"qid": 661, "qstr": "mukositis", "freq": 9}
+{"qid": 662, "qstr": "intermittent AND fasting", "freq": 9}
+{"qid": 663, "qstr": "narzissmus", "freq": 9}
+{"qid": 664, "qstr": "ambient AND assisted AND living AND and AND nursing", "freq": 9}
+{"qid": 666, "qstr": "labordiagnostik", "freq": 9}
+{"qid": 667, "qstr": "vascular AND surgery", "freq": 9}
+{"qid": 669, "qstr": "hospiz", "freq": 9}
+{"qid": 671, "qstr": "windeldermatitis", "freq": 9}
+{"qid": 672, "qstr": "arzneimittel", "freq": 9}
+{"qid": 673, "qstr": "promotion", "freq": 9}
+{"qid": 675, "qstr": "psychose", "freq": 9}
+{"qid": 676, "qstr": "pneumologie", "freq": 9}
+{"qid": 678, "qstr": "care", "freq": 9}
+{"qid": 679, "qstr": "weaning", "freq": 9}
+{"qid": 680, "qstr": "hpv AND impfung", "freq": 9}
+{"qid": 681, "qstr": "krankenpflege", "freq": 9}
+{"qid": 683, "qstr": "systemische AND therapie", "freq": 9}
+{"qid": 684, "qstr": "fibromyalgie", "freq": 9}
+{"qid": 685, "qstr": "leberzirrhose", "freq": 9}
+{"qid": 686, "qstr": "musik", "freq": 9}
+{"qid": 687, "qstr": "beckenendlage", "freq": 9}
+{"qid": 688, "qstr": "nierentransplantation", "freq": 9}
+{"qid": 692, "qstr": "osteoporose AND physiotherapie", "freq": 9}
+{"qid": 696, "qstr": "ebn", "freq": 9}
+{"qid": 698, "qstr": "kindesmisshandlung", "freq": 9}
+{"qid": 699, "qstr": "harninkontinenz", "freq": 9}
+{"qid": 701, "qstr": "behinderung", "freq": 9}
+{"qid": 702, "qstr": "pathophysiologie", "freq": 9}
+{"qid": 703, "qstr": "nejm", "freq": 9}
+{"qid": 705, "qstr": "reproduktionsmedizin", "freq": 9}
+{"qid": 706, "qstr": "ethik AND pflege", "freq": 9}
+{"qid": 707, "qstr": "gehirn", "freq": 9}
+{"qid": 708, "qstr": "massage", "freq": 9}
+{"qid": 709, "qstr": "als", "freq": 9}
+{"qid": 710, "qstr": "genetik", "freq": 9}
+{"qid": 711, "qstr": "tavi", "freq": 9}
+{"qid": 712, "qstr": "haufe", "freq": 9}
+{"qid": 713, "qstr": "deutsche AND medizinische AND wochenschrift", "freq": 9}
+{"qid": 714, "qstr": "hebammen", "freq": 9}
+{"qid": 715, "qstr": "pharmakologie AND und AND toxikologie", "freq": 9}
+{"qid": 716, "qstr": "biotechnologie", "freq": 9}
+{"qid": 717, "qstr": "controlling", "freq": 9}
+{"qid": 718, "qstr": "casemanagement", "freq": 9}
+{"qid": 719, "qstr": "mhealth", "freq": 9}
+{"qid": 722, "qstr": "mastitis", "freq": 9}
+{"qid": 723, "qstr": "verbrennungen", "freq": 9}
+{"qid": 724, "qstr": "tuberkulose", "freq": 9}
+{"qid": 726, "qstr": "who", "freq": 9}
+{"qid": 727, "qstr": "telemedizin AND studie", "freq": 9}
+{"qid": 728, "qstr": "palliative AND pflege", "freq": 9}
+{"qid": 729, "qstr": "medizinische AND soziologie", "freq": 9}
+{"qid": 730, "qstr": "mobilisation", "freq": 9}
+{"qid": 734, "qstr": "mucoviszidose", "freq": 9}
+{"qid": 736, "qstr": "das AND humangenomprojekt", "freq": 9}
+{"qid": 737, "qstr": "emotionen", "freq": 9}
+{"qid": 738, "qstr": "peripherer AND nerv", "freq": 9}
+{"qid": 740, "qstr": "insulin", "freq": 9}
+{"qid": 741, "qstr": "dialyse AND komplikationen", "freq": 9}
+{"qid": 742, "qstr": "tumor", "freq": 9}
+{"qid": 745, "qstr": "anorexie", "freq": 8}
+{"qid": 746, "qstr": "obstipation AND schwangerschaft", "freq": 8}
+{"qid": 747, "qstr": "icu", "freq": 8}
+{"qid": 748, "qstr": "nervenarzt", "freq": 8}
+{"qid": 750, "qstr": "schulz AND von AND thun", "freq": 8}
+{"qid": 752, "qstr": "der AND nervenarzt", "freq": 8}
+{"qid": 753, "qstr": "telemedizin AND diabetes", "freq": 8}
+{"qid": 754, "qstr": "myeloid AND leukemia", "freq": 8}
+{"qid": 755, "qstr": "generalistik", "freq": 8}
+{"qid": 757, "qstr": "soziologie", "freq": 8}
+{"qid": 758, "qstr": "postoperatives AND delir", "freq": 8}
+{"qid": 760, "qstr": "rheumatoide AND arthritis", "freq": 8}
+{"qid": 762, "qstr": "medizinische AND psychologie", "freq": 8}
+{"qid": 763, "qstr": "laryngektomie", "freq": 8}
+{"qid": 766, "qstr": "soziale AND phobie", "freq": 8}
+{"qid": 769, "qstr": "hospital", "freq": 8}
+{"qid": 770, "qstr": "milch", "freq": 8}
+{"qid": 771, "qstr": "arteriosklerose", "freq": 8}
+{"qid": 772, "qstr": "carl AND rogers", "freq": 8}
+{"qid": 774, "qstr": "gesundheitskommunikation", "freq": 8}
+{"qid": 776, "qstr": "fas", "freq": 8}
+{"qid": 777, "qstr": "tcm", "freq": 8}
+{"qid": 779, "qstr": "op", "freq": 8}
+{"qid": 780, "qstr": "usmle", "freq": 8}
+{"qid": 782, "qstr": "selbsthilfe", "freq": 8}
+{"qid": 783, "qstr": "coaching", "freq": 8}
+{"qid": 784, "qstr": "trepel", "freq": 8}
+{"qid": 785, "qstr": "patient AND safety", "freq": 8}
+{"qid": 786, "qstr": "aromatherapy", "freq": 8}
+{"qid": 788, "qstr": "emotionale AND intelligenz", "freq": 8}
+{"qid": 789, "qstr": "fixierung", "freq": 8}
+{"qid": 791, "qstr": "ausbildung", "freq": 8}
+{"qid": 793, "qstr": "adipositas AND kinder", "freq": 8}
+{"qid": 794, "qstr": "prosthetic AND joint AND infection AND survival AND rate", "freq": 8}
+{"qid": 796, "qstr": "dysphagia", "freq": 8}
+{"qid": 797, "qstr": "morphine AND palliative", "freq": 8}
+{"qid": 798, "qstr": "anatomy", "freq": 8}
+{"qid": 799, "qstr": "c.meyer", "freq": 8}
+{"qid": 800, "qstr": "coronavirus AND nursing", "freq": 8}
+{"qid": 801, "qstr": "motivational AND interviewing", "freq": 8}
+{"qid": 802, "qstr": "psychische AND belastung", "freq": 8}
+{"qid": 806, "qstr": "lymphdrainage", "freq": 8}
+{"qid": 807, "qstr": "tourette", "freq": 8}
+{"qid": 808, "qstr": "audiometrie", "freq": 8}
+{"qid": 809, "qstr": "milestone AND transition", "freq": 8}
+{"qid": 811, "qstr": "nephrologie", "freq": 8}
+{"qid": 813, "qstr": "zeitarbeit", "freq": 8}
+{"qid": 814, "qstr": "postoperativ", "freq": 8}
+{"qid": 815, "qstr": "palliativversorgung", "freq": 8}
+{"qid": 816, "qstr": "koffein", "freq": 8}
+{"qid": 817, "qstr": "telemedicine", "freq": 8}
+{"qid": 818, "qstr": "kurzzeitpflege", "freq": 8}
+{"qid": 821, "qstr": "isolation", "freq": 8}
+{"qid": 822, "qstr": "infektiologie", "freq": 8}
+{"qid": 823, "qstr": "simulation", "freq": 8}
+{"qid": 825, "qstr": "bedsharing OR familienbett", "freq": 8}
+{"qid": 826, "qstr": "muskeldystrophie", "freq": 8}
+{"qid": 827, "qstr": "pflegeheim", "freq": 8}
+{"qid": 828, "qstr": "mesh", "freq": 8}
+{"qid": 830, "qstr": "diabetes AND mellitus AND typ AND 2", "freq": 8}
+{"qid": 832, "qstr": "borreliose", "freq": 8}
+{"qid": 833, "qstr": "delir AND intensivstation AND screening", "freq": 8}
+{"qid": 835, "qstr": "tms", "freq": 8}
+{"qid": 836, "qstr": "kommunikation AND in AND der AND pflege", "freq": 8}
+{"qid": 838, "qstr": "drosten", "freq": 8}
+{"qid": 841, "qstr": "partizipative AND entscheidungsfindung", "freq": 8}
+{"qid": 842, "qstr": "burnout AND in AND der AND pflege", "freq": 8}
+{"qid": 843, "qstr": "nutri AND score", "freq": 8}
+{"qid": 844, "qstr": "wohlbefinden", "freq": 8}
+{"qid": 846, "qstr": "kinder AND und AND jugendpsychiatrie", "freq": 8}
+{"qid": 847, "qstr": "kompetenz", "freq": 8}
+{"qid": 848, "qstr": "darm", "freq": 8}
+{"qid": 850, "qstr": "heilberufe", "freq": 8}
+{"qid": 851, "qstr": "kopfschmerz", "freq": 8}
+{"qid": 852, "qstr": "polyneuropathie", "freq": 8}
+{"qid": 853, "qstr": "kognitive AND neurowissenschaften", "freq": 8}
+{"qid": 854, "qstr": "quality AND of AND life", "freq": 8}
+{"qid": 855, "qstr": "magnet AND hospital", "freq": 8}
+{"qid": 856, "qstr": "ulcus AND cruris", "freq": 8}
+{"qid": 857, "qstr": "knie", "freq": 8}
+{"qid": 859, "qstr": "wiesner AND physiologie", "freq": 8}
+{"qid": 862, "qstr": "kinderchirurgie", "freq": 8}
+{"qid": 863, "qstr": "christian AND drosten", "freq": 8}
+{"qid": 865, "qstr": "nature", "freq": 8}
+{"qid": 866, "qstr": "lehrbuch AND der AND physiologie", "freq": 8}
+{"qid": 867, "qstr": "prosthetic AND joint AND infection AND operation", "freq": 8}
+{"qid": 868, "qstr": "chronische AND erkrankungen", "freq": 8}
+{"qid": 870, "qstr": "transition", "freq": 8}
+{"qid": 871, "qstr": "delir AND and AND nurs*", "freq": 8}
+{"qid": 873, "qstr": "adhd", "freq": 8}
+{"qid": 874, "qstr": "pythium", "freq": 8}
+{"qid": 876, "qstr": "demenz AND 'a", "freq": 8}
+{"qid": 879, "qstr": "forensische AND psychiatrie", "freq": 7}
+{"qid": 880, "qstr": "chronische AND wunden", "freq": 7}
+{"qid": 882, "qstr": "gastroenterologie", "freq": 7}
+{"qid": 883, "qstr": "eeg", "freq": 7}
+{"qid": 884, "qstr": "nanda", "freq": 7}
+{"qid": 885, "qstr": "sbar", "freq": 7}
+{"qid": 886, "qstr": "oxybutynin", "freq": 7}
+{"qid": 887, "qstr": "e-learning", "freq": 7}
+{"qid": 889, "qstr": "legasthenie", "freq": 7}
+{"qid": 890, "qstr": "op AND management", "freq": 7}
+{"qid": 891, "qstr": "fragebogen", "freq": 7}
+{"qid": 892, "qstr": "kompressionsverband", "freq": 7}
+{"qid": 893, "qstr": "vorhofflimmern", "freq": 7}
+{"qid": 894, "qstr": "datenschutz", "freq": 7}
+{"qid": 895, "qstr": "spinale AND muskelatrophie", "freq": 7}
+{"qid": 896, "qstr": "dysarthrie", "freq": 7}
+{"qid": 897, "qstr": "kooperation", "freq": 7}
+{"qid": 898, "qstr": "morbus AND crohn AND therapy", "freq": 7}
+{"qid": 899, "qstr": "kma", "freq": 7}
+{"qid": 900, "qstr": "bienen", "freq": 7}
+{"qid": 901, "qstr": "alter", "freq": 7}
+{"qid": 903, "qstr": "dioxin", "freq": 7}
+{"qid": 906, "qstr": "bundesgesundheitsblatt", "freq": 7}
+{"qid": 909, "qstr": "studien", "freq": 7}
+{"qid": 913, "qstr": "hausgeburt", "freq": 7}
+{"qid": 915, "qstr": "pflegeethik", "freq": 7}
+{"qid": 917, "qstr": "vegetarismus", "freq": 7}
+{"qid": 918, "qstr": "das AND gesundheitswesen", "freq": 7}
+{"qid": 921, "qstr": "f&w", "freq": 7}
+{"qid": 922, "qstr": "empathie", "freq": 7}
+{"qid": 923, "qstr": "soja", "freq": 7}
+{"qid": 925, "qstr": "gender", "freq": 7}
+{"qid": 927, "qstr": "sensorische AND integration", "freq": 7}
+{"qid": 928, "qstr": "bulimie", "freq": 7}
+{"qid": 929, "qstr": "didaktik", "freq": 7}
+{"qid": 930, "qstr": "organtransplantation", "freq": 7}
+{"qid": 933, "qstr": "kompressionstherapie", "freq": 7}
+{"qid": 935, "qstr": "vitalzeichen", "freq": 7}
+{"qid": 936, "qstr": "gonarthrose", "freq": 7}
+{"qid": 937, "qstr": "ms", "freq": 7}
+{"qid": 938, "qstr": "cardiology", "freq": 7}
+{"qid": 939, "qstr": "mts", "freq": 7}
+{"qid": 940, "qstr": "harrison", "freq": 7}
+{"qid": 941, "qstr": "bildgebende AND verfahren", "freq": 7}
+{"qid": 942, "qstr": "prostata", "freq": 7}
+{"qid": 943, "qstr": "mbsr", "freq": 7}
+{"qid": 944, "qstr": "uptodate", "freq": 7}
+{"qid": 945, "qstr": "cystic AND fibrosis", "freq": 7}
+{"qid": 946, "qstr": "pcr", "freq": 7}
+{"qid": 950, "qstr": "neuroradiologie", "freq": 7}
+{"qid": 952, "qstr": "sectio", "freq": 7}
+{"qid": 954, "qstr": "i AND care AND pflege", "freq": 7}
+{"qid": 956, "qstr": "geschichte AND der AND medizin", "freq": 7}
+{"qid": 957, "qstr": "schulstation", "freq": 7}
+{"qid": 960, "qstr": "pde-5", "freq": 7}
+{"qid": 961, "qstr": "zwang", "freq": 7}
+{"qid": 963, "qstr": "frage AND und AND antwort", "freq": 7}
+{"qid": 966, "qstr": "lazarus", "freq": 7}
+{"qid": 967, "qstr": "endokrinologie", "freq": 7}
+{"qid": 968, "qstr": "blood", "freq": 7}
+{"qid": 969, "qstr": "benzodiazepine", "freq": 7}
+{"qid": 970, "qstr": "pflegepersonal", "freq": 7}
+{"qid": 971, "qstr": "pest", "freq": 7}
+{"qid": 976, "qstr": "khk", "freq": 7}
+{"qid": 978, "qstr": "nidcap", "freq": 7}
+{"qid": 979, "qstr": "ambient AND assisted AND living AND and AND caring", "freq": 7}
+{"qid": 981, "qstr": "health", "freq": 7}
+{"qid": 982, "qstr": "haut", "freq": 7}
+{"qid": 985, "qstr": "brustkrebs AND schmerz", "freq": 7}
+{"qid": 987, "qstr": "validation AND demenz", "freq": 7}
+{"qid": 990, "qstr": "barthel AND index", "freq": 7}
+{"qid": 992, "qstr": "tierversuche", "freq": 7}
+{"qid": 993, "qstr": "ti", "freq": 7}
+{"qid": 994, "qstr": "locked AND in AND syndrom", "freq": 7}
+{"qid": 997, "qstr": "familiale AND pflege", "freq": 7}
+{"qid": 999, "qstr": "intertrigo", "freq": 7}
+{"qid": 1000, "qstr": "gruppendynamik", "freq": 7}
+{"qid": 1002, "qstr": "psychomotorik", "freq": 7}
+{"qid": 1003, "qstr": "das AND icu AND buch", "freq": 7}
+{"qid": 1004, "qstr": "jama", "freq": 7}
+{"qid": 1005, "qstr": "therapy", "freq": 7}
+{"qid": 1006, "qstr": "advanced AND nursing AND practice", "freq": 7}
+{"qid": 1007, "qstr": "tiertherapie", "freq": 7}
+{"qid": 1009, "qstr": "palliative AND sedierung", "freq": 7}
+{"qid": 1010, "qstr": "a", "freq": 7}
+{"qid": 1012, "qstr": "ase", "freq": 7}
+{"qid": 1013, "qstr": "resilience", "freq": 7}
+{"qid": 1014, "qstr": "manchester AND triage AND system", "freq": 7}
+{"qid": 1015, "qstr": "personal", "freq": 7}
+{"qid": 1017, "qstr": "zahnerhaltung", "freq": 7}
+{"qid": 1018, "qstr": "albinismus", "freq": 7}
+{"qid": 1020, "qstr": "kurkuma", "freq": 7}
+{"qid": 1022, "qstr": "frozen AND shoulder", "freq": 7}
+{"qid": 1027, "qstr": "gerontopsychiatrie", "freq": 7}
+{"qid": 1028, "qstr": "gruppentherapie", "freq": 7}
+{"qid": 1029, "qstr": "wissensmanagement", "freq": 7}
+{"qid": 1030, "qstr": "niv", "freq": 7}
+{"qid": 1031, "qstr": "migraine", "freq": 7}
+{"qid": 1032, "qstr": "medizinethik", "freq": 7}
+{"qid": 1036, "qstr": "training", "freq": 7}
+{"qid": 1037, "qstr": "lungenkrebs", "freq": 7}
+{"qid": 1040, "qstr": "cochrane", "freq": 7}
+{"qid": 1042, "qstr": "atmen", "freq": 7}
+{"qid": 1043, "qstr": "hanf", "freq": 7}
+{"qid": 1044, "qstr": "berufliche AND rehabilitation", "freq": 7}
+{"qid": 1045, "qstr": "karow", "freq": 7}
+{"qid": 1046, "qstr": "magnesium", "freq": 7}
+{"qid": 1048, "qstr": "sensorimotor AND dyslexia", "freq": 7}
+{"qid": 1052, "qstr": "prosthetic AND joint AND infection AND surgical", "freq": 7}
+{"qid": 1054, "qstr": "sars AND cov AND 2", "freq": 7}
+{"qid": 1055, "qstr": "lehrbuch AND histologie", "freq": 7}
+{"qid": 1056, "qstr": "muttermilch", "freq": 7}
+{"qid": 1058, "qstr": "hypnose", "freq": 7}
+{"qid": 1060, "qstr": "gesundheit AND digital", "freq": 7}
+{"qid": 1061, "qstr": "bauchlage", "freq": 7}
+{"qid": 1063, "qstr": "patient", "freq": 7}
+{"qid": 1065, "qstr": "antibiotic* AND machin* AND learn*", "freq": 7}
+{"qid": 1066, "qstr": "invasive AND pflanzen", "freq": 7}
+{"qid": 1067, "qstr": "kooperatives AND lernen", "freq": 7}
+{"qid": 1068, "qstr": "leukemia AND drug AND therapy", "freq": 7}
+{"qid": 1069, "qstr": "anatomie AND ausbildung", "freq": 7}
+{"qid": 1072, "qstr": "fettstoffwechsel", "freq": 7}
+{"qid": 1073, "qstr": "lockdwon OR shutdown OR deutschland OR germany", "freq": 6}
+{"qid": 1075, "qstr": "zeolith", "freq": 6}
+{"qid": 1076, "qstr": "haccp", "freq": 6}
+{"qid": 1077, "qstr": "infection", "freq": 6}
+{"qid": 1078, "qstr": "neuropsychologie", "freq": 6}
+{"qid": 1080, "qstr": "konfliktmanagement", "freq": 6}
+{"qid": 1081, "qstr": "nursing AND care", "freq": 6}
+{"qid": 1083, "qstr": "kinderheilkunde", "freq": 6}
+{"qid": 1084, "qstr": "evaluation", "freq": 6}
+{"qid": 1085, "qstr": "leistenhernie", "freq": 6}
+{"qid": 1086, "qstr": "breastfeeding", "freq": 6}
+{"qid": 1087, "qstr": "integrative AND validation", "freq": 6}
+{"qid": 1089, "qstr": "cannabidiol", "freq": 6}
+{"qid": 1090, "qstr": "icd-10", "freq": 6}
+{"qid": 1091, "qstr": "team", "freq": 6}
+{"qid": 1092, "qstr": "alzheimer AND demenz", "freq": 6}
+{"qid": 1094, "qstr": "krisenintervention", "freq": 6}
+{"qid": 1095, "qstr": "spina AND bifida", "freq": 6}
+{"qid": 1096, "qstr": "fatique", "freq": 6}
+{"qid": 1097, "qstr": "naturheilkunde", "freq": 6}
+{"qid": 1098, "qstr": "atmung", "freq": 6}
+{"qid": 1099, "qstr": "verbrennung", "freq": 6}
+{"qid": 1101, "qstr": "superfood", "freq": 6}
+{"qid": 1102, "qstr": "demenz AND studie", "freq": 6}
+{"qid": 1103, "qstr": "impfungen", "freq": 6}
+{"qid": 1104, "qstr": "watzlawick", "freq": 6}
+{"qid": 1105, "qstr": "sportmedizin", "freq": 6}
+{"qid": 1106, "qstr": "infection rate", "freq": 6}
+{"qid": 1107, "qstr": "hypothermie", "freq": 6}
+{"qid": 1108, "qstr": "erwachsenenbildung", "freq": 6}
+{"qid": 1109, "qstr": "euthanasie", "freq": 6}
+{"qid": 1110, "qstr": "transfusionsmedizin", "freq": 6}
+{"qid": 1111, "qstr": "lipedema", "freq": 6}
+{"qid": 1112, "qstr": "chirurg", "freq": 6}
+{"qid": 1113, "qstr": "harnblasenkarzinom", "freq": 6}
+{"qid": 1114, "qstr": "animal AND assisted AND therapy", "freq": 6}
+{"qid": 1115, "qstr": "patientenzufriedenheit AND mammaplastik", "freq": 6}
+{"qid": 1116, "qstr": "forschungsmethoden", "freq": 6}
+{"qid": 1117, "qstr": "intrinsische AND motivation", "freq": 6}
+{"qid": 1118, "qstr": "experteninterview", "freq": 6}
+{"qid": 1119, "qstr": "hautpflege", "freq": 6}
+{"qid": 1120, "qstr": "therapie", "freq": 6}
+{"qid": 1121, "qstr": "mutismus", "freq": 6}
+{"qid": 1123, "qstr": "controlled AND study", "freq": 6}
+{"qid": 1124, "qstr": "paracetamol", "freq": 6}
+{"qid": 1125, "qstr": "drogen", "freq": 6}
+{"qid": 1126, "qstr": "viszeralchirurgie", "freq": 6}
+{"qid": 1127, "qstr": "arbeitszufriedenheit AND pflege", "freq": 6}
+{"qid": 1129, "qstr": "digitalisierung AND gesundheit", "freq": 6}
+{"qid": 1131, "qstr": "gesundheitsversorgung", "freq": 6}
+{"qid": 1132, "qstr": "implementierung", "freq": 6}
+{"qid": 1133, "qstr": "alcohol", "freq": 6}
+{"qid": 1134, "qstr": "bewegungsmangel", "freq": 6}
+{"qid": 1138, "qstr": "stuttering", "freq": 6}
+{"qid": 1140, "qstr": "das AND deutsche AND gesundheitssystem", "freq": 6}
+{"qid": 1145, "qstr": "antibiotika*", "freq": 6}
+{"qid": 1148, "qstr": "beech AND growth", "freq": 6}
+{"qid": 1149, "qstr": "balanced AND scorecard", "freq": 6}
+{"qid": 1150, "qstr": "robotik", "freq": 6}
+{"qid": 1153, "qstr": "dementia AND hospital", "freq": 6}
+{"qid": 1156, "qstr": "vorzeitiger AND blasensprung", "freq": 6}
+{"qid": 1157, "qstr": "chemotherapie", "freq": 6}
+{"qid": 1158, "qstr": "dekubitus AND prophylaxe", "freq": 6}
+{"qid": 1159, "qstr": "blutdruck", "freq": 6}
+{"qid": 1161, "qstr": "smartphone", "freq": 6}
+{"qid": 1162, "qstr": "padua", "freq": 6}
+{"qid": 1163, "qstr": "rct", "freq": 6}
+{"qid": 1164, "qstr": "autogenes AND training", "freq": 6}
+{"qid": 1166, "qstr": "drinking AND water AND supply AND analysis", "freq": 6}
+{"qid": 1167, "qstr": "beckenboden", "freq": 6}
+{"qid": 1168, "qstr": "klimakterium", "freq": 6}
+{"qid": 1173, "qstr": "internistische AND intensivmedizin", "freq": 6}
+{"qid": 1176, "qstr": "joachim AND conrad", "freq": 6}
+{"qid": 1177, "qstr": "vegan*", "freq": 6}
+{"qid": 1178, "qstr": "windeldermatitis AND behandlung", "freq": 6}
+{"qid": 1181, "qstr": "clinical AND reasoning", "freq": 6}
+{"qid": 1184, "qstr": "gerontologie", "freq": 6}
+{"qid": 1187, "qstr": "biochemie AND horn", "freq": 6}
+{"qid": 1189, "qstr": "ptsd", "freq": 6}
+{"qid": 1191, "qstr": "rapid AND sequence AND induction", "freq": 6}
+{"qid": 1192, "qstr": "vitamin AND d3", "freq": 6}
+{"qid": 1194, "qstr": "green AND hospital", "freq": 6}
+{"qid": 1197, "qstr": "bewegungstherapie", "freq": 6}
+{"qid": 1198, "qstr": "therapie-tools", "freq": 6}
+{"qid": 1199, "qstr": "unterricht AND pflege", "freq": 6}
+{"qid": 1202, "qstr": "neuroenhancement", "freq": 6}
+{"qid": 1203, "qstr": "larsen", "freq": 6}
+{"qid": 1205, "qstr": "bandura", "freq": 6}
+{"qid": 1208, "qstr": "myeloid AND leukemia AND therapy", "freq": 6}
+{"qid": 1209, "qstr": "veganism", "freq": 6}
+{"qid": 1211, "qstr": "kreuzband", "freq": 6}
+{"qid": 1216, "qstr": "kiggs", "freq": 6}
+{"qid": 1221, "qstr": "krankengeld", "freq": 6}
+{"qid": 1222, "qstr": "der AND chirurg", "freq": 6}
+{"qid": 1223, "qstr": "neurowissenschaften", "freq": 6}
+{"qid": 1224, "qstr": "die AND schwester", "freq": 6}
+{"qid": 1225, "qstr": "phytophthora", "freq": 6}
+{"qid": 1228, "qstr": "hautkrebs", "freq": 6}
+{"qid": 1230, "qstr": "workplace AND health AND promotion", "freq": 6}
+{"qid": 1231, "qstr": "forensik", "freq": 6}
+{"qid": 1232, "qstr": "hemiparese", "freq": 6}
+{"qid": 1234, "qstr": "krankenhaus AND rating AND report AND 2019", "freq": 6}
+{"qid": 1236, "qstr": "biogas", "freq": 6}
+{"qid": 1237, "qstr": "ku", "freq": 6}
+{"qid": 1238, "qstr": "allergy", "freq": 6}
+{"qid": 1239, "qstr": "pregnancy", "freq": 6}
+{"qid": 1240, "qstr": "speech AND therapy", "freq": 6}
+{"qid": 1241, "qstr": "nonverbale AND kommunikation", "freq": 6}
+{"qid": 1242, "qstr": "vitamin AND b12", "freq": 6}
+{"qid": 1244, "qstr": "alkoholkonsum", "freq": 6}
+{"qid": 1246, "qstr": "home AND office", "freq": 6}
+{"qid": 1249, "qstr": "stress AND pflege", "freq": 6}
+{"qid": 1250, "qstr": "amboss", "freq": 6}
+{"qid": 1251, "qstr": "abtreibung", "freq": 6}
+{"qid": 1252, "qstr": "nuklearmedizin", "freq": 6}
+{"qid": 1253, "qstr": "leadership", "freq": 6}
+{"qid": 1255, "qstr": "melanom", "freq": 6}
+{"qid": 1259, "qstr": "palliativpatienten", "freq": 6}
+{"qid": 1260, "qstr": "ct", "freq": 6}
+{"qid": 1262, "qstr": "pavk", "freq": 6}
+{"qid": 1265, "qstr": "wunden", "freq": 6}
+{"qid": 1266, "qstr": "coxarthrose", "freq": 6}
+{"qid": 1267, "qstr": "mental AND health", "freq": 6}
+{"qid": 1269, "qstr": "schnittstellenmanagement", "freq": 6}
+{"qid": 1270, "qstr": "emotion", "freq": 6}
+{"qid": 1273, "qstr": "osteoporosis", "freq": 6}
+{"qid": 1275, "qstr": "malnutrition", "freq": 6}
+{"qid": 1276, "qstr": "hallo", "freq": 6}
+{"qid": 1277, "qstr": "klinische AND studien", "freq": 6}
+{"qid": 1278, "qstr": "cancer AND conference", "freq": 6}
+{"qid": 1282, "qstr": "epicondylitis", "freq": 6}
+{"qid": 1284, "qstr": "cholesterin", "freq": 6}
+{"qid": 1286, "qstr": "glioblastom", "freq": 6}
+{"qid": 1289, "qstr": "grippe", "freq": 6}
+{"qid": 1293, "qstr": "rheumatologie", "freq": 6}
+{"qid": 1297, "qstr": "trauer", "freq": 6}
+{"qid": 1298, "qstr": "modelle AND von AND gesundheit AND und AND krankheit", "freq": 6}
+{"qid": 1299, "qstr": "pflege AND demenz", "freq": 6}
+{"qid": 1300, "qstr": "niere", "freq": 6}
+{"qid": 1302, "qstr": "curcumin", "freq": 6}
+{"qid": 1303, "qstr": "ultraschall", "freq": 6}
+{"qid": 1307, "qstr": "sterben", "freq": 6}
+{"qid": 1309, "qstr": "kognitive AND verhaltenstherapie", "freq": 6}
+{"qid": 1310, "qstr": "neglect", "freq": 6}
+{"qid": 1311, "qstr": "dbt", "freq": 6}
+{"qid": 1312, "qstr": "manchester AND triage", "freq": 6}
+{"qid": 1314, "qstr": "health AND promotion", "freq": 6}
+{"qid": 1316, "qstr": "marketing", "freq": 6}
+{"qid": 1317, "qstr": "fehlzeiten AND report", "freq": 6}
+{"qid": 1318, "qstr": "erysiphe AND necator", "freq": 6}
+{"qid": 1319, "qstr": "glaukom", "freq": 6}
+{"qid": 1320, "qstr": "icd", "freq": 6}
+{"qid": 1321, "qstr": "elektrotherapie", "freq": 6}
+{"qid": 1322, "qstr": "florence AND nightingale", "freq": 6}
+{"qid": 1323, "qstr": "generationen", "freq": 6}
+{"qid": 1324, "qstr": "dennis AND nano", "freq": 6}
+{"qid": 1325, "qstr": "physical AND activity", "freq": 6}
+{"qid": 1332, "qstr": "regionale AND lebensmittel", "freq": 6}
+{"qid": 1333, "qstr": "kanski", "freq": 6}
+{"qid": 1336, "qstr": "beratung AND in AND der AND pflege", "freq": 6}
+{"qid": 1338, "qstr": "interprofessionelle AND zusammenarbeit", "freq": 6}
+{"qid": 1340, "qstr": "tapp", "freq": 6}
+{"qid": 1342, "qstr": "orphan AND drugs", "freq": 6}
+{"qid": 1344, "qstr": "sozialmedizin", "freq": 6}
+{"qid": 1346, "qstr": "animal AND protection AND rats", "freq": 6}
+{"qid": 1348, "qstr": "badura", "freq": 6}
+{"qid": 1351, "qstr": "thoraxdrainage", "freq": 6}
+{"qid": 1352, "qstr": "harrison AND internal AND medicine", "freq": 6}
+{"qid": 1353, "qstr": "akupressur", "freq": 6}
+{"qid": 1354, "qstr": "duchenne AND muskeldystrophie", "freq": 6}
+{"qid": 1355, "qstr": "laparoskopie", "freq": 6}
+{"qid": 1359, "qstr": "aromatherapie AND demenz", "freq": 5}
+{"qid": 1361, "qstr": "masernimpfung", "freq": 5}
+{"qid": 1362, "qstr": "geschichte AND der AND pflege", "freq": 5}
+{"qid": 1363, "qstr": "speckmann", "freq": 5}
+{"qid": 1364, "qstr": "aal", "freq": 5}
+{"qid": 1366, "qstr": "progressive AND muskelrelaxation", "freq": 5}
+{"qid": 1367, "qstr": "doping", "freq": 5}
+{"qid": 1368, "qstr": "sporttherapie", "freq": 5}
+{"qid": 1370, "qstr": "infektionskrankheiten", "freq": 5}
+{"qid": 1371, "qstr": "hallux AND valgus", "freq": 5}
+{"qid": 1372, "qstr": "wundheilung", "freq": 5}
+{"qid": 1373, "qstr": "ebm", "freq": 5}
+{"qid": 1374, "qstr": "savant", "freq": 5}
+{"qid": 1375, "qstr": "aroma", "freq": 5}
+{"qid": 1377, "qstr": "untergewicht", "freq": 5}
+{"qid": 1381, "qstr": "antike AND medizin", "freq": 5}
+{"qid": 1383, "qstr": "karzinom", "freq": 5}
+{"qid": 1384, "qstr": "selbstkonzept", "freq": 5}
+{"qid": 1386, "qstr": "neurologische AND pathophysiologie", "freq": 5}
+{"qid": 1387, "qstr": "new AND england AND journal AND of AND medicine", "freq": 5}
+{"qid": 1389, "qstr": "dysmenorrhoe", "freq": 5}
+{"qid": 1390, "qstr": "visite", "freq": 5}
+{"qid": 1391, "qstr": "hepatitis", "freq": 5}
+{"qid": 1392, "qstr": "tmprss2", "freq": 5}
+{"qid": 1393, "qstr": "der AND schmerz", "freq": 5}
+{"qid": 1394, "qstr": "yoga AND schmerz", "freq": 5}
+{"qid": 1396, "qstr": "liebe AND sex", "freq": 5}
+{"qid": 1399, "qstr": "methodik AND klinischer AND studien", "freq": 5}
+{"qid": 1402, "qstr": "artificial AND intelligence", "freq": 5}
+{"qid": 1403, "qstr": "ota", "freq": 5}
+{"qid": 1404, "qstr": "geburtseinleitung", "freq": 5}
+{"qid": 1407, "qstr": "bipolar", "freq": 5}
+{"qid": 1408, "qstr": "portfolio", "freq": 5}
+{"qid": 1410, "qstr": "diabetes AND typ AND 1", "freq": 5}
+{"qid": 1412, "qstr": "absentismus", "freq": 5}
+{"qid": 1413, "qstr": "bewusstsein", "freq": 5}
+{"qid": 1414, "qstr": "delegation", "freq": 5}
+{"qid": 1415, "qstr": "levetiracetam", "freq": 5}
+{"qid": 1416, "qstr": "stigma", "freq": 5}
+{"qid": 1418, "qstr": "gesetzliche AND krankenversicherung", "freq": 5}
+{"qid": 1420, "qstr": "fleisch", "freq": 5}
+{"qid": 1422, "qstr": "demenz AND musik", "freq": 5}
+{"qid": 1424, "qstr": "kinder- AND und AND jugendpsychiatrie", "freq": 5}
+{"qid": 1425, "qstr": "medizintourismus", "freq": 5}
+{"qid": 1426, "qstr": "benner", "freq": 5}
+{"qid": 1427, "qstr": "sf-36", "freq": 5}
+{"qid": 1428, "qstr": "scoping AND review", "freq": 5}
+{"qid": 1432, "qstr": "e AND health", "freq": 5}
+{"qid": 1434, "qstr": "dokumentation", "freq": 5}
+{"qid": 1435, "qstr": "professionelle AND pflege", "freq": 5}
+{"qid": 1438, "qstr": "hippotherapy", "freq": 5}
+{"qid": 1439, "qstr": "maslow", "freq": 5}
+{"qid": 1440, "qstr": "hippokrates", "freq": 5}
+{"qid": 1441, "qstr": "vitamin AND k2", "freq": 5}
+{"qid": 1443, "qstr": "gicht", "freq": 5}
+{"qid": 1448, "qstr": "assessment", "freq": 5}
+{"qid": 1450, "qstr": "screening", "freq": 5}
+{"qid": 1452, "qstr": "stroke AND unit", "freq": 5}
+{"qid": 1454, "qstr": "das AND gesundheitssystem AND in AND deutschland", "freq": 5}
+{"qid": 1455, "qstr": "phenprocoumon", "freq": 5}
+{"qid": 1456, "qstr": "feldsalat", "freq": 5}
